@@ -14,4 +14,4 @@ Contains all the files and answers to quizzes in the Deep Learning Nanodegree by
   Generative Adversarial Network (GAN) to generate new faces using existing celebrity images.
   
 5. Deploying a Sentiment Analysis Model 
-  IN PROGRESS
+  
