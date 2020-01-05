@@ -1,7 +1,7 @@
 # Udacity-Deep-Learning-Nanodegree
 Contains all the files and answers to quizzes in the Deep Learning Nanodegree by Udacity
 
-1. Predicting Bike Sharing Patterns (IN PROGRESS)
+1. Predicting Bike Sharing Patterns
   This project predicts how many bikes will a bike sharing company need in the near future. Having too few on standby would make company lose money form potential riders. Having too many will waste money on bikes that are just sitting around unused. So, a neural network is used to predict the optimal number of bikes needed using historical data. 
   
 2. Dog-Breed Classifier
